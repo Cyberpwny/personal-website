@@ -33,7 +33,7 @@ The production site is published at [cyberpwny.github.io/personal-website](https
 
 A custom domain can be added later without changing the site structure.
 
-## Before public deployment
+## Public-content checks
 
 1. Add each public case-study anchor URL to the optional Freelancermap link field.
 2. Confirm that the confidential-deployment claims remain approved for public use.
