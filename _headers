@@ -1,0 +1,14 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), geolocation=(), microphone=(), payment=(), usb=()
+
+/assets/fonts/*
+  Cache-Control: public, max-age=2592000
+
+/assets/icons/*
+  Cache-Control: public, max-age=604800
+
+/assets/work/*
+  Cache-Control: public, max-age=604800

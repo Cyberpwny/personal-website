@@ -1,0 +1,15 @@
+{
+  "name": "dominik-stiftinger-lang-personal-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static personal website and professional link page for Dominik Stiftinger-Lang.",
+  "scripts": {
+    "build": "node tools/build-site.cjs",
+    "verify": "html-validate index.html links.html 404.html impressum.html datenschutz.html portfolio/portfolio.html && node tools/verify-site.cjs",
+    "portfolio": "node tools/capture-portfolio.cjs"
+  },
+  "devDependencies": {
+    "html-validate": "11.6.2",
+    "playwright": "1.62.1"
+  }
+}

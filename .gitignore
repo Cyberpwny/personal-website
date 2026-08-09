@@ -1,0 +1,7 @@
+dist/
+node_modules/
+previews/
+portfolio/exports/
+.wrangler/
+.DS_Store
+npm-debug.log*
