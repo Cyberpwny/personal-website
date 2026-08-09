@@ -29,9 +29,7 @@ The generated `dist/` directory contains only files intended for public hosting.
 
 ## Hosting
 
-The production site is published at [cyberpwny.github.io/personal-website](https://cyberpwny.github.io/personal-website/). GitHub Actions builds and deploys only the generated `dist/` directory to GitHub Pages after every push to `main`.
-
-A custom domain can be added later without changing the site structure.
+The production site is published at [stiftingerlang.com](https://stiftingerlang.com/). GitHub Actions builds and deploys only the generated `dist/` directory to GitHub Pages after every push to `main`.
 
 ## Public-content checks
 

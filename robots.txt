@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cyberpwny.github.io/personal-website/sitemap.xml
+Sitemap: https://stiftingerlang.com/sitemap.xml
