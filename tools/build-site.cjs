@@ -13,6 +13,9 @@ const productionFiles = [
   "links.css",
   "script.js",
   "_headers",
+  ".nojekyll",
+  "robots.txt",
+  "sitemap.xml",
   "assets",
 ];
 
