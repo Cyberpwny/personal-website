@@ -320,9 +320,9 @@ p:last-child {
 
 .hero-shade {
   position: absolute;
-  inset: 0 auto 0 0;
-  width: 58%;
-  background: rgba(61, 67, 73, 0.92);
+  inset: 0;
+  width: 100%;
+  background: rgba(61, 67, 73, 0.6);
 }
 
 .hero-inner {
@@ -1120,10 +1120,6 @@ p:last-child {
     width: min(600px, 58%);
   }
 
-  .hero-shade {
-    width: 64%;
-  }
-
   .positioning-grid,
   .section-heading {
     grid-template-columns: 130px minmax(0, 1fr);
@@ -1233,8 +1229,7 @@ p:last-child {
   }
 
   .hero-shade {
-    width: 72%;
-    background: rgba(61, 67, 73, 0.88);
+    background: rgba(61, 67, 73, 0.64);
   }
 
   .hero-copy {
@@ -1340,7 +1335,6 @@ p:last-child {
   }
 
   .hero-shade {
-    width: 100%;
     background: rgba(61, 67, 73, 0.69);
   }
 
