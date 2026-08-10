@@ -16,7 +16,7 @@ The six matching upload images are generated from `portfolio.html`. Add the fina
 
 **Title:** Distributed Portfolio Management & Trading Platform
 
-**Description:** Led software teams of 4-8 as Product Owner and Scrum Master while architecting a production Go platform spanning portfolio construction, account state, execution, reconciliation, reporting, and client-facing APIs. Implemented durable Temporal workflows, PostgreSQL persistence, gRPC and OpenAPI interfaces, idempotent financial processing, and controlled operational boundaries.
+**Description:** Combined Product Owner responsibility and Scrum-based delivery with hands-on architecture of a production Go platform spanning portfolio construction, account state, execution, reconciliation, reporting, and client-facing APIs. Implemented durable Temporal workflows, PostgreSQL persistence, gRPC and OpenAPI interfaces, idempotent financial processing, and controlled operational boundaries.
 
 ## 03 - Multi-Venue Order Management & Execution
 
