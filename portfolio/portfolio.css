@@ -302,6 +302,112 @@ main {
   border-right: 1px solid var(--line);
 }
 
+.frame-main-ml {
+  grid-template-columns: 405px minmax(0, 1fr);
+}
+
+.frame-ml-pipeline {
+  height: 455px;
+  margin: 0;
+  padding: 30px 34px 22px;
+  background: var(--white);
+  border: 1px solid #cfd4d6;
+}
+
+.ml-pipeline-kicker {
+  color: #596268;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.frame-ml-pipeline ol {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 54px 0 43px;
+  padding: 0;
+  list-style: none;
+}
+
+.frame-ml-pipeline li {
+  position: relative;
+  min-width: 0;
+  padding: 38px 13px 0 0;
+  border-top: 3px solid var(--charcoal);
+}
+
+.frame-ml-pipeline li::before {
+  position: absolute;
+  top: -10px;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  border: 4px solid var(--charcoal);
+  border-radius: 50%;
+  content: "";
+  background: var(--white);
+}
+
+.frame-ml-pipeline li:last-child::before {
+  background: var(--charcoal);
+}
+
+.frame-ml-pipeline li span,
+.frame-ml-pipeline li strong,
+.frame-ml-pipeline li small {
+  display: block;
+}
+
+.frame-ml-pipeline li span {
+  margin-bottom: 8px;
+  color: #727a80;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.frame-ml-pipeline li strong {
+  margin-bottom: 8px;
+  font-size: 15px;
+  line-height: 1.3;
+}
+
+.frame-ml-pipeline li small {
+  color: #626a70;
+  font-size: 10px;
+  line-height: 1.55;
+}
+
+.ml-research-evidence {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.ml-research-evidence span {
+  padding: 13px 10px;
+  color: var(--charcoal);
+  font-size: 10px;
+  line-height: 1.45;
+  text-align: center;
+}
+
+.ml-research-evidence span:not(:last-child) {
+  border-right: 1px solid var(--line);
+}
+
+.ml-research-evidence strong {
+  display: block;
+  margin-bottom: 3px;
+  font-size: 11px;
+}
+
+.frame-ml-pipeline figcaption {
+  margin-top: 13px;
+  color: #6b7479;
+  font-size: 10px;
+}
+
 .frame-footer {
   height: 70px;
   display: flex;

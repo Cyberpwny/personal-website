@@ -709,6 +709,7 @@ p:last-child {
 .process-visual {
   min-height: 470px;
   padding: 43px 42px 35px;
+  color: var(--charcoal);
   background: var(--white);
   border: 1px solid #cfd4d6;
 }

@@ -13,7 +13,7 @@ const exportsById = [
   ["#portfolio-03", "03-multi-venue-order-execution.png"],
   ["#portfolio-04", "04-portfolio-optimization-architecture.png"],
   ["#portfolio-05", "05-multi-factor-investment-framework.png"],
-  ["#portfolio-06", "06-quantitative-strategy-research.png"],
+  ["#portfolio-06", "06-production-ml-reinforcement-learning.png"],
 ];
 
 (async () => {

@@ -42,10 +42,10 @@ The six matching upload images are generated from `portfolio.html`. Add the fina
 
 **Description:** Developed a layered allocation framework combining asset-specific, systematic, and subjective inputs with risk constraints, portfolio construction, and execution. Published in the Crypto Valley Association Research Journal in 2025 and rated best among twelve submissions.
 
-## 06 - Quantitative Strategy Research
+## 06 - Production Machine Learning & Reinforcement-Learning Research
 
-**Image:** `06-quantitative-strategy-research.png`
+**Image:** `06-production-ml-reinforcement-learning.png`
 
-**Title:** Quantitative Strategy Research & Model Validation
+**Title:** Production Machine Learning & Reinforcement-Learning Research
 
-**Description:** Built reproducible research pipelines to compare allocation approaches across market regimes. Evaluation covered cumulative returns, drawdowns, benchmarks, and risk-adjusted measures so that model decisions were supported by multiple lines of evidence rather than a single backtest metric.
+**Description:** Built the 2020-2021 Apex production ML pipeline from real-time market-data collection and feature engineering through TensorFlow/Keras training, automated tuning, backtesting, and staged live trading. Co-authored published spiking-neural-network research in 2021 and continued reinforcement-learning research for DeFi portfolio constraints from 2022.
