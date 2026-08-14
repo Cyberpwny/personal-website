@@ -34,6 +34,6 @@ The production site is published at [stiftingerlang.com](https://stiftingerlang.
 ## Public-content checks
 
 1. Add each public case-study anchor URL to the optional Freelancermap link field.
-2. Confirm that the confidential-deployment claims remain approved for public use.
+2. Confirm that public performance and production claims remain approved for use.
 
 No analytics, cookies, embedded social feeds, or contact form are included.

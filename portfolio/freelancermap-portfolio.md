@@ -1,6 +1,6 @@
 # Freelancermap Portfolio Entries
 
-The six matching upload images are generated from `portfolio.html`. Add the final public project-section URL only after the personal website has a domain; the link field is optional.
+The six matching upload images are generated from `portfolio.html`. Descriptions stay within Freelancermap's 300-character limit. Use primary external evidence where available and the matching personal case study otherwise.
 
 ## 01 - AI-Assisted Software Delivery & Quality Control
 
@@ -8,7 +8,9 @@ The six matching upload images are generated from `portfolio.html`. Add the fina
 
 **Title:** AI-Assisted Software Delivery & Quality Control
 
-**Description:** Designed bounded multi-agent workflows for implementation, codebase research, testing, financial-flow audits, and independent verification in a financially sensitive Go monorepo. Standardized Claude Code and OpenAI Codex through reusable skills, structured handoffs, MCP integrations, and evidence-based branch verdicts.
+**Description:** Designed bounded multi-agent workflows for implementation, codebase research, testing, financial-flow audits, and independent verification in a sensitive Go monorepo. Standardized Claude Code and Codex with reusable skills, MCP tools, structured handoffs, and evidence-based branch verdicts.
+
+**Link:** https://stiftingerlang.com/#ai-delivery
 
 ## 02 - Distributed Portfolio Management & Trading Platform
 
@@ -16,7 +18,9 @@ The six matching upload images are generated from `portfolio.html`. Add the fina
 
 **Title:** Distributed Portfolio Management & Trading Platform
 
-**Description:** Combined Product Owner responsibility and Scrum-based delivery with hands-on architecture of a production Go platform spanning portfolio construction, account state, execution, reconciliation, reporting, and client-facing APIs. Implemented durable Temporal workflows, PostgreSQL persistence, gRPC and OpenAPI interfaces, idempotent financial processing, and controlled operational boundaries.
+**Description:** Combined Product Owner responsibility and Scrum delivery with hands-on architecture of a production Go platform spanning portfolio construction, best execution, reconciliation, reporting, and client APIs. Implemented Temporal workflows, PostgreSQL, gRPC, OpenAPI, and idempotent financial processing.
+
+**Link:** https://www.chainbrain.fi/
 
 ## 03 - Multi-Venue Order Management & Execution
 
@@ -24,7 +28,9 @@ The six matching upload images are generated from `portfolio.html`. Add the fina
 
 **Title:** Multi-Venue Order Management & Execution
 
-**Description:** Built REST and WebSocket integrations for five exchanges, including venue-specific order semantics, lifecycle state machines, fill and balance reconciliation, exposure controls, and execution-quality measurement. Operated production spot and futures rebalancing with sub-1 bps median implementation shortfall and no exposure-limit breaches.
+**Description:** Within ChainBrain, led development of five exchange integrations, best-execution algorithms, order-lifecycle state machines, reconciliation, exposure controls, and execution measurement. Operated spot and futures rebalancing with sub-1 bps median implementation shortfall.
+
+**Link:** https://www.chainbrain.fi/
 
 ## 04 - Portfolio Optimization Architecture
 
@@ -34,6 +40,8 @@ The six matching upload images are generated from `portfolio.html`. Add the fina
 
 **Description:** Designed the end-to-end service path from public and private market data through portfolio construction to multi-venue rebalancing. Explicit data and execution boundaries keep strategy computation separate from account state, reconciliation, and exchange-specific behavior.
 
+**Link:** https://stiftingerlang.com/#optimization-architecture
+
 ## 05 - Multi-Factor Investment Framework
 
 **Image:** `05-multi-factor-investment-framework.png`
@@ -42,10 +50,14 @@ The six matching upload images are generated from `portfolio.html`. Add the fina
 
 **Description:** Developed a layered allocation framework combining asset-specific, systematic, and subjective inputs with risk constraints, portfolio construction, and execution. Published in the Crypto Valley Association Research Journal in 2025 and rated best among twelve submissions.
 
+**Link:** https://members.cryptovalley.swiss/news/2269659
+
 ## 06 - Production Machine Learning & Reinforcement-Learning Research
 
 **Image:** `06-production-ml-reinforcement-learning.png`
 
 **Title:** Production Machine Learning & Reinforcement-Learning Research
 
-**Description:** Built the 2020-2021 Apex production ML pipeline from real-time market-data collection and feature engineering through TensorFlow/Keras training, automated tuning, backtesting, and staged live trading. Co-authored published spiking-neural-network research in 2021 and continued reinforcement-learning research for DeFi portfolio constraints from 2022.
+**Description:** Built the 2020-2021 Apex production ML pipeline from real-time market data and feature engineering through TensorFlow/Keras training, automated tuning, backtesting, and staged live trading. Also includes published spiking-neural-network research and actor-critic portfolio optimization from 2022.
+
+**Link:** https://www.biorxiv.org/content/10.1101/2021.05.18.444689v2
