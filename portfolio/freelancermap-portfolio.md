@@ -28,7 +28,7 @@ The six matching upload images are generated from `portfolio.html`. Descriptions
 
 **Title:** Multi-Venue Order Management & Execution
 
-**Description:** Within ChainBrain, led development of five exchange integrations, best-execution algorithms, order-lifecycle state machines, reconciliation, exposure controls, and execution measurement. Operated spot and futures rebalancing with sub-1 bps median implementation shortfall.
+**Description:** Led ChainBrain's production venue integrations, best-execution algorithms, order-lifecycle state machines, reconciliation, exposure controls, and execution measurement. Broader adapter history covers Bybit, Deribit, KuCoin, Huobi and more.
 
 **Link:** https://www.chainbrain.fi/
 
