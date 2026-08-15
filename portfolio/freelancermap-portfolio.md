@@ -28,7 +28,7 @@ The six matching upload images are generated from `portfolio.html`. Descriptions
 
 **Title:** Multi-Venue Order Management & Execution
 
-**Description:** Led ChainBrain's production venue integrations, best-execution algorithms, order-lifecycle state machines, reconciliation, exposure controls, and execution measurement. Broader adapter history covers Bybit, Deribit, KuCoin, Huobi and more.
+**Description:** Led production venue integrations, best-execution algorithms, order-lifecycle state machines, reconciliation, exposure controls, and execution measurement across a broad set of centralized exchanges, including Binance, Kraken, OKX, Bybit and Deribit.
 
 **Link:** https://www.chainbrain.fi/
 
